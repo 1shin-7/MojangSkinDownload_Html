@@ -1,6 +1,8 @@
 MojangSkinDownload
 ================
 
+###注意:由于Python 3重写了代码导致与Python 2不兼容，请务必使用Python 3运行此程序
+
 为了方便以下说明，MojangSkinDownload会简称为MSD(除特殊情况)
 
 部署运行环境
@@ -40,4 +42,4 @@ bug反馈以及改进建议请在GitHub进行反馈或者发送电子邮件至``
 
 增加其他语言的支持
 
-增加编程语言(C，Java等)的支持
+增加编程语言(C，Java，Python 2等)的支持

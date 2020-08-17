@@ -6,7 +6,7 @@ MojangSkinDownload
 部署运行环境
 -------------
 
-1.前往python.org下载最新的Python并安装(请勾选Add Python 3.x to PATH)
+1.前往[Python官方网站](python.org)下载最新的Python并安装(请勾选Add Python 3.x to PATH)
 
 2.打开命令行窗口，输入
 ```
